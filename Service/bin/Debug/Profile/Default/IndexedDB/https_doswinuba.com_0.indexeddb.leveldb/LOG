@@ -1,0 +1,7 @@
+2020/12/04-23:47:55.777 2cd4 Reusing MANIFEST C:\Users\suley\source\repos\BotProje\bin\Debug\Profile\Default\IndexedDB\https_doswinuba.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-23:47:55.778 2cd4 Recovering log #3
+2020/12/04-23:47:55.780 2cd4 Reusing old log C:\Users\suley\source\repos\BotProje\bin\Debug\Profile\Default\IndexedDB\https_doswinuba.com_0.indexeddb.leveldb/000003.log 
+2020/12/04-23:47:59.847 31b8 Level-0 table #5: started
+2020/12/04-23:47:59.851 31b8 Level-0 table #5: 1865 bytes OK
+2020/12/04-23:47:59.855 31b8 Delete type=0 #3
+2020/12/04-23:47:59.856 31b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

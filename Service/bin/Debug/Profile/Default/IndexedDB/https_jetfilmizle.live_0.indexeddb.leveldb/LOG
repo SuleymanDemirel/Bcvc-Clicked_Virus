@@ -1,0 +1,5 @@
+2020/11/29-13:46:21.603 dcc Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_jetfilmizle.live_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-15:28:43.250 37a0 Level-0 table #5: started
+2020/11/29-15:28:43.251 37a0 Level-0 table #5: 6657 bytes OK
+2020/11/29-15:28:43.253 37a0 Delete type=0 #3
+2020/11/29-15:28:43.253 37a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+[1205/213921.297:WARNING:gpu_process_host.cc(1266)] The GPU process has crashed 1 time(s)
+[1205/213921.349:WARNING:gpu_process_host.cc(990)] Reinitialized the GPU process after a crash. The reported initialization time was 21 ms
+[1205/213922.221:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.
+[1205/214210.582:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.
+[1205/214534.659:WARNING:gpu_process_host.cc(1266)] The GPU process has crashed 2 time(s)
+[1205/214534.706:WARNING:gpu_process_host.cc(990)] Reinitialized the GPU process after a crash. The reported initialization time was 20 ms

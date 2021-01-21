@@ -1,0 +1,8 @@
+2020/11/22-13:37:53.462 3040 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_s3.dosya.tc_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-13:37:53.462 3040 Recovering log #4
+2020/11/22-13:37:53.463 3040 Reusing old log C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_s3.dosya.tc_0.indexeddb.leveldb/000004.log 
+2020/11/22-13:37:57.698 d58 Level-0 table #8: started
+2020/11/22-13:37:57.698 d58 Level-0 table #8: 0 bytes OK
+2020/11/22-13:37:57.700 d58 Delete type=0 #4
+2020/11/22-13:37:57.700 d58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/22-13:37:57.701 d58 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,10 @@
+[1828:14768:1205/152001.364:INFO:CONSOLE(222)] "120508", source: https://bcvc.live/J3OyIpS (222)
+[1828:14768:1205/152001.434:INFO:CONSOLE(397)] "6", source: https://cdnbcvc.com/loader.js (397)
+[1828:14768:1205/152001.434:INFO:CONSOLE(340)] "5", source: https://cdnbcvc.com/loader.js (340)
+[1828:14768:1205/152001.555:INFO:CONSOLE(269)] "true [object Object]", source: https://cdnbcvc.com/loader.js (269)
+[1828:14768:1205/152001.556:INFO:CONSOLE(205)] "3", source: https://cdnbcvc.com/loader.js (205)
+[1828:14768:1205/152002.561:INFO:CONSOLE(4)] "2221", source: https://bcvc.live/ave.js?v=6 (4)
+[1828:14768:1205/152004.120:ERROR:device_event_log_impl.cc(211)] [15:20:04.123] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme baðlý bir aygýt çalýþmýyor. (0x1F)
+[1828:14768:1205/152004.120:ERROR:device_event_log_impl.cc(211)] [15:20:04.125] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme baðlý bir aygýt çalýþmýyor. (0x1F)
+[1828:14768:1205/152012.602:INFO:CONSOLE(108)] "https://rdr9.xyz/earn.php?z=4&oid=120508&subid=120508&title=Camera-Scanner.rar - Google Drive", source: https://bcvc.live/dist/js/po_v9.js?v=8977546 (108)
+[1828:14768:1205/152016.403:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,5 @@
+2020/11/26-22:52:26.018 eec Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/26-23:16:23.166 270c Level-0 table #5: started
+2020/11/26-23:16:23.170 270c Level-0 table #5: 1532 bytes OK
+2020/11/26-23:16:23.172 270c Delete type=0 #3
+2020/11/26-23:16:23.172 270c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/11/22-13:39:20.806 1f10 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_bordoklavyeli.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-13:39:28.281 3040 Level-0 table #5: started
+2020/11/22-13:39:28.285 3040 Level-0 table #5: 6790 bytes OK
+2020/11/22-13:39:28.287 3040 Delete type=0 #3
+2020/11/22-13:39:28.287 3040 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

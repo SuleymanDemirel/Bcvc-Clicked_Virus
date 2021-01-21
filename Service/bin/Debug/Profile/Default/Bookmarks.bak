@@ -1,0 +1,82 @@
+{
+   "checksum": "2e6a4b978b3f3196ad24f117e08ed373",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13250530911847427",
+            "guid": "211b341e-1cd3-49b0-9fdd-a273163e100f",
+            "id": "5",
+            "name": "FİNANS I",
+            "type": "url",
+            "url": "https://cdn-sv.almscloud.com/alms-content/clu9-alms214/course/1224497/activity/1606076/finansal_yonetim_i__sunu.pdf?sv=2013-08-15&sr=b&sig=H2%2Fa6gphkMpubWMAKg7NKBafcS50X0dPaUwexRefFFg%3D&st=2020-11-22T14%3A59%3A44Z&se=2020-11-22T17%3A01%3A44Z&sp=rwl&md5=-sqWcTftUveqcUdC-X1GSw&expires=1606071704"
+         }, {
+            "date_added": "13250530918767691",
+            "guid": "3bfa2995-79c9-4db3-9ddf-48650a87d5ac",
+            "id": "6",
+            "name": "FİNANS I",
+            "type": "url",
+            "url": "https://cdn-sv.almscloud.com/alms-content/clu9-alms214/course/1224497/activity/1630471/finansal_yonetim_ii__sunu.pdf?sv=2013-08-15&sr=b&sig=4ERoJRff8ACAq8j2xZEw4FN3xrDlVQN8SXNcCPW98L8%3D&st=2020-11-22T14%3A59%3A56Z&se=2020-11-22T17%3A01%3A56Z&sp=rwl&md5=2zgEy0LtGpUUiWUsZpelmA&expires=1606071716"
+         }, {
+            "date_added": "13250542658549550",
+            "guid": "7c23bc05-5667-44d2-97d7-5fe497cc33e6",
+            "id": "7",
+            "name": "Excel2010_Baslangic.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1IjuhE094HV_9rctsihwLrOytPmYchpB1/view"
+         }, {
+            "date_added": "13250628715659812",
+            "guid": "af768240-516a-4706-a72b-20811483e8f6",
+            "id": "9",
+            "name": "HTML Forms",
+            "type": "url",
+            "url": "https://www.w3schools.com/html/html_forms.asp"
+         }, {
+            "date_added": "13250684390524819",
+            "guid": "e06c29f3-592b-46e4-ad6d-65573f666bfd",
+            "id": "11",
+            "name": "CBİKO - Türkiye Cumhuriyeti Cumhurbaşkanlığı İnsan Kaynakları Ofisi Başkanlığı",
+            "type": "url",
+            "url": "https://kariyerkapisi.cbiko.gov.tr/UyeStajlarim.aspx"
+         }, {
+            "date_added": "13250721234560177",
+            "guid": "7577d4ed-a66c-4533-8cda-c44af3760261",
+            "id": "13",
+            "name": "YetenekKapısı",
+            "type": "url",
+            "url": "https://www.yetenekkapisi.org/student_jobpostings"
+         }, {
+            "date_added": "13250888228481489",
+            "guid": "376d5809-0132-4bf8-8c5f-2ecc8ebecae6",
+            "id": "15",
+            "name": "C# Ders 55 SQL Veri Tabanlı Setup (ikinci 100) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=-dRfwPWzQcc"
+         } ],
+         "date_added": "13250520439862508",
+         "date_modified": "13250888228481489",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Yer işaretleri çubuğu",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13250520439862513",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Diğer yer işaretleri",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13250520439862524",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobil yer işaretleri",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

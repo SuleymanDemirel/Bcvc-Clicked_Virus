@@ -1,0 +1,5 @@
+2020/12/05-15:24:32.753 948 Reusing MANIFEST C:\Users\suley\source\repos\BotProje\bin\Debug\Profile\Default\Local Storage\leveldb/MANIFEST-000001
+2020/12/05-15:24:32.753 948 Recovering log #317
+2020/12/05-15:24:32.754 948 Reusing old log C:\Users\suley\source\repos\BotProje\bin\Debug\Profile\Default\Local Storage\leveldb/000317.log 
+2020/12/05-15:24:37.286 db0 Level-0 table #321: started
+2020/12/05-15:24:37.288 db0 Level-0 table #321: 15572 bytes OK

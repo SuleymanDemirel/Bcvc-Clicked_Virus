@@ -1,0 +1,9 @@
+[9456:10792:1205/151601.938:INFO:CONSOLE(222)] "120508", source: https://bcvc.live/J3OyIpS (222)
+[9456:10792:1205/151601.971:INFO:CONSOLE(397)] "6", source: https://cdnbcvc.com/loader.js (397)
+[9456:10792:1205/151601.971:INFO:CONSOLE(340)] "5", source: https://cdnbcvc.com/loader.js (340)
+[9456:10792:1205/151602.031:INFO:CONSOLE(4)] "2221", source: https://bcvc.live/ave.js?v=6 (4)
+[9456:10792:1205/151602.056:INFO:CONSOLE(269)] "true [object Object]", source: https://cdnbcvc.com/loader.js (269)
+[9456:10792:1205/151602.056:INFO:CONSOLE(205)] "3", source: https://cdnbcvc.com/loader.js (205)
+[9456:10792:1205/151605.365:ERROR:device_event_log_impl.cc(211)] [15:16:05.366] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme baðlý bir aygýt çalýþmýyor. (0x1F)
+[9456:10792:1205/151605.368:ERROR:device_event_log_impl.cc(211)] [15:16:05.368] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: Sisteme baðlý bir aygýt çalýþmýyor. (0x1F)
+[9456:10792:1205/151610.652:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,5 @@
+2020/11/22-13:37:29.679 3040 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_s3.dosya.tc_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-13:37:39.175 1f10 Level-0 table #5: started
+2020/11/22-13:37:39.177 1f10 Level-0 table #5: 1708 bytes OK
+2020/11/22-13:37:39.178 1f10 Delete type=0 #3
+2020/11/22-13:37:39.178 1f10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

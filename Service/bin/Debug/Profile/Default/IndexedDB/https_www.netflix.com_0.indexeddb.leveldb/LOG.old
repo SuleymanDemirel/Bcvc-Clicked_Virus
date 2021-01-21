@@ -1,0 +1,15 @@
+2020/11/26-18:59:17.316 2f98 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/26-18:59:17.316 2f98 Recovering log #33
+2020/11/26-18:59:17.316 2f98 Reusing old log C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/000033.log 
+2020/11/26-19:23:23.598 2f4 Level-0 table #38: started
+2020/11/26-19:23:23.605 2f4 Level-0 table #38: 1182551 bytes OK
+2020/11/26-19:23:23.606 2f4 Delete type=0 #33
+2020/11/26-19:23:23.606 2f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/26-19:23:23.606 1638 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x02\x00v\x00b' @ 45872 : 1
+2020/11/26-19:23:23.607 1638 Compacting 1@1 + 1@2 files
+2020/11/26-19:23:23.610 1638 Generated table #39@1: 64 keys, 12570 bytes
+2020/11/26-19:23:23.610 1638 Compacted 1@1 + 1@2 files => 12570 bytes
+2020/11/26-19:23:23.611 1638 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/26-19:23:23.611 1638 Delete type=2 #35
+2020/11/26-19:23:23.611 1638 Delete type=2 #38
+2020/11/26-19:23:23.611 1638 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x02\x00v\x00b' @ 45872 : 1 .. (end); will stop at (end)

@@ -1,0 +1,24 @@
+2020/11/27-17:20:26.805 1950 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/27-17:20:26.805 1950 Recovering log #80
+2020/11/27-17:20:26.805 1950 Reusing old log C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000080.log 
+2020/11/27-18:01:21.691 2278 Level-0 table #85: started
+2020/11/27-18:01:21.720 2278 Level-0 table #85: 1318142 bytes OK
+2020/11/27-18:01:21.721 2278 Delete type=0 #80
+2020/11/27-18:01:22.431 1eac Compacting 1@1 + 1@2 files
+2020/11/27-18:01:22.464 1eac Generated table #86@1: 9406 keys, 1589755 bytes
+2020/11/27-18:01:22.464 1eac Compacted 1@1 + 1@2 files => 1589755 bytes
+2020/11/27-18:01:22.465 1eac compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/27-18:01:22.465 1eac Delete type=2 #82
+2020/11/27-18:01:22.465 1eac Delete type=2 #85
+2020/11/27-18:09:33.753 ba4 Level-0 table #88: started
+2020/11/27-18:09:33.763 ba4 Level-0 table #88: 540751 bytes OK
+2020/11/27-18:09:33.764 ba4 Delete type=0 #84
+2020/11/27-18:09:33.764 ba4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/27-18:09:33.764 ba4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x15\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00-\x00i\x00d\x00b' @ 982625 : 1
+2020/11/27-18:09:33.764 ba4 Compacting 1@1 + 1@2 files
+2020/11/27-18:09:33.786 ba4 Generated table #89@1: 1862 keys, 1229159 bytes
+2020/11/27-18:09:33.786 ba4 Compacted 1@1 + 1@2 files => 1229159 bytes
+2020/11/27-18:09:33.786 ba4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/27-18:09:33.787 ba4 Delete type=2 #86
+2020/11/27-18:09:33.787 ba4 Delete type=2 #88
+2020/11/27-18:09:33.787 ba4 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x15\x00l\x00r\x00u\x00-\x00m\x00e\x00d\x00i\x00a\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00-\x00i\x00d\x00b' @ 982625 : 1 .. (end); will stop at (end)

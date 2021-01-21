@@ -1,0 +1,25 @@
+2020/11/28-20:19:57.478 e10 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/28-20:19:57.480 e10 Recovering log #37
+2020/11/28-20:19:57.480 e10 Reusing old log C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/000037.log 
+2020/11/28-20:40:59.614 3e94 Level-0 table #42: started
+2020/11/28-20:40:59.674 3e94 Level-0 table #42: 3044627 bytes OK
+2020/11/28-20:40:59.678 3e94 Delete type=0 #37
+2020/11/28-20:52:21.072 4394 Level-0 table #44: started
+2020/11/28-20:52:21.077 4394 Level-0 table #44: 258298 bytes OK
+2020/11/28-20:52:21.078 4394 Delete type=0 #41
+2020/11/28-20:52:21.078 4394 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 58148 : 1
+2020/11/28-20:52:21.078 4394 Compacting 1@0 + 1@1 files
+2020/11/28-20:52:21.089 4394 Generated table #45@0: 2903 keys, 36273 bytes
+2020/11/28-20:52:21.089 4394 Compacted 1@0 + 1@1 files => 36273 bytes
+2020/11/28-20:52:21.089 4394 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/28-20:52:21.090 4394 Delete type=2 #42
+2020/11/28-20:52:21.090 4394 Delete type=2 #44
+2020/11/28-20:52:21.091 4394 Manual compaction at level-0 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 58148 : 1 .. (end); will stop at (end)
+2020/11/28-20:52:21.091 4394 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x13\x00I\x00S\x00_\x00P\x00U\x00S\x00H\x00_\x00E\x00N\x00A\x00B\x00L\x00E\x00D\x00_\x00K\x00E\x00Y' @ 55304 : 1
+2020/11/28-20:52:21.091 4394 Compacting 1@1 + 1@2 files
+2020/11/28-20:52:21.093 4394 Generated table #46@1: 64 keys, 13039 bytes
+2020/11/28-20:52:21.093 4394 Compacted 1@1 + 1@2 files => 13039 bytes
+2020/11/28-20:52:21.093 4394 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/28-20:52:21.094 4394 Delete type=2 #39
+2020/11/28-20:52:21.094 4394 Delete type=2 #45
+2020/11/28-20:52:21.094 4394 Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x13\x00I\x00S\x00_\x00P\x00U\x00S\x00H\x00_\x00E\x00N\x00A\x00B\x00L\x00E\x00D\x00_\x00K\x00E\x00Y' @ 55304 : 1 .. (end); will stop at (end)

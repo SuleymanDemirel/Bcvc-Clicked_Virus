@@ -1,0 +1,5 @@
+2020/11/23-17:10:17.256 328c Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\http_excelvba.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-17:10:48.302 2bfc Level-0 table #5: started
+2020/11/23-17:10:48.304 2bfc Level-0 table #5: 1114 bytes OK
+2020/11/23-17:10:48.306 2bfc Delete type=0 #3
+2020/11/23-17:10:48.306 2bfc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

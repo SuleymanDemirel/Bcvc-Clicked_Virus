@@ -1,0 +1,8 @@
+2020/11/29-16:28:00.770 3a0 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_turbobit.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-16:28:00.770 3a0 Recovering log #4
+2020/11/29-16:28:00.770 3a0 Reusing old log C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_turbobit.net_0.indexeddb.leveldb/000004.log 
+2020/11/29-16:28:08.356 3a0 Level-0 table #8: started
+2020/11/29-16:28:08.356 3a0 Level-0 table #8: 0 bytes OK
+2020/11/29-16:28:08.361 3a0 Delete type=0 #4
+2020/11/29-16:28:08.361 3a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/29-16:28:08.361 3a0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

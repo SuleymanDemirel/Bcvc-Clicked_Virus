@@ -1,0 +1,5 @@
+2020/11/24-22:28:20.714 1ca8 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.takvim.com.tr_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/24-22:28:24.804 32c4 Level-0 table #5: started
+2020/11/24-22:28:24.807 32c4 Level-0 table #5: 365 bytes OK
+2020/11/24-22:28:24.809 32c4 Delete type=0 #3
+2020/11/24-22:28:24.809 32c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

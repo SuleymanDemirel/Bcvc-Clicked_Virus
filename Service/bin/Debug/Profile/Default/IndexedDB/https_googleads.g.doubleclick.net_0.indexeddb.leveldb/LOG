@@ -1,0 +1,8 @@
+2020/11/28-22:11:26.931 1bb0 Reusing MANIFEST C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/28-22:11:26.932 1bb0 Recovering log #23
+2020/11/28-22:11:26.933 1bb0 Reusing old log C:\Users\suley\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000023.log 
+2020/11/28-22:11:41.102 1edc Level-0 table #27: started
+2020/11/28-22:11:41.102 1edc Level-0 table #27: 0 bytes OK
+2020/11/28-22:11:41.105 1edc Delete type=0 #23
+2020/11/28-22:11:41.106 1edc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/28-22:11:41.106 1edc Manual compaction at level-1 from (begin) .. (end); will stop at (end)
